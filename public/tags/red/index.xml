@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Red on Shamal&#39;s Creations</title>
+    <link>http://example.org/tags/red/</link>
+    <description>Recent content in Red on Shamal&#39;s Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 15:48:00 +0530</lastBuildDate><atom:link href="http://example.org/tags/red/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Item 23</title>
+      <link>http://example.org/products/item23/</link>
+      <pubDate>Sat, 12 May 2018 15:48:00 +0530</pubDate>
+      
+      <guid>http://example.org/products/item23/</guid>
+      <description>Size: 17.5 inch x 9.5 inch</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Productsses on Shamal&#39;s Creations</title>
+    <link>http://example.org/productss/</link>
+    <description>Recent content in Productsses on Shamal&#39;s Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Oct 2020 17:07:06 -0400</lastBuildDate><atom:link href="http://example.org/productss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bluetray</title>
+      <link>http://example.org/productss/bluetray/</link>
+      <pubDate>Sun, 11 Oct 2020 17:07:06 -0400</pubDate>
+      
+      <guid>http://example.org/productss/bluetray/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shamal&#39;s Creations</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Shamal&#39;s Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 15:54:25 +0530</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green</title>
+      <link>http://example.org/tags/green/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://example.org/tags/green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red</title>
+      <link>http://example.org/tags/red/</link>
+      <pubDate>Sat, 12 May 2018 15:48:00 +0530</pubDate>
+      
+      <guid>http://example.org/tags/red/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Green</title>
+      <link>http://example.org/tags/light-green/</link>
+      <pubDate>Sat, 12 May 2018 13:50:55 +0530</pubDate>
+      
+      <guid>http://example.org/tags/light-green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue</title>
+      <link>http://example.org/tags/blue/</link>
+      <pubDate>Thu, 10 May 2018 20:17:46 +0530</pubDate>
+      
+      <guid>http://example.org/tags/blue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yellow</title>
+      <link>http://example.org/tags/yellow/</link>
+      <pubDate>Thu, 10 May 2018 20:11:38 +0530</pubDate>
+      
+      <guid>http://example.org/tags/yellow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black</title>
+      <link>http://example.org/tags/black/</link>
+      <pubDate>Thu, 10 May 2018 08:02:34 +0530</pubDate>
+      
+      <guid>http://example.org/tags/black/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

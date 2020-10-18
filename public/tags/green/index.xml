@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Green on Shamal&#39;s Creations</title>
+    <link>http://example.org/tags/green/</link>
+    <description>Recent content in Green on Shamal&#39;s Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 15:54:25 +0530</lastBuildDate><atom:link href="http://example.org/tags/green/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Item 2</title>
+      <link>http://example.org/products/item2/</link>
+      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      
+      <guid>http://example.org/products/item2/</guid>
+      <description>Size: 8.5 inch x 8.5 inch
+Material: Glass
+Colour: Green Yellow and white</description>
+    </item>
+    
+    <item>
+      <title>Item 20</title>
+      <link>http://example.org/products/item20/</link>
+      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      
+      <guid>http://example.org/products/item20/</guid>
+      <description>Available in other sizes and colors</description>
+    </item>
+    
+  </channel>
+</rss>

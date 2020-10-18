@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/products/item1/</loc>
+    <lastmod>2020-10-11T17:20:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/</loc>
+    <lastmod>2020-10-11T17:20:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-10-11T17:20:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/my-first-post/</loc>
+    <lastmod>2020-10-11T16:51:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-10-11T16:51:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/green/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item2/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/trays/</loc>
+    <lastmod>2018-05-12T15:54:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item23/</loc>
+    <lastmod>2018-05-12T15:48:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/red/</loc>
+    <lastmod>2018-05-12T15:48:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item27/</loc>
+    <lastmod>2018-05-12T13:50:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/light-green/</loc>
+    <lastmod>2018-05-12T13:50:55+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item20/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item5/</loc>
+    <lastmod>2018-05-11T22:35:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/blue/</loc>
+    <lastmod>2018-05-10T20:17:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item17/</loc>
+    <lastmod>2018-05-10T20:17:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item14/</loc>
+    <lastmod>2018-05-10T20:11:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/yellow/</loc>
+    <lastmod>2018-05-10T20:11:38+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item16/</loc>
+    <lastmod>2018-05-10T20:00:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/black/</loc>
+    <lastmod>2018-05-10T08:02:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item37/</loc>
+    <lastmod>2018-05-10T08:02:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/products/item7/</loc>
+    <lastmod>2018-05-10T08:02:34+05:30</lastmod>
+  </url>
+  
+</urlset>
