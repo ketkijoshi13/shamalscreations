@@ -4,5 +4,4 @@ title = "Shamal's Creations"
 theme = "hugo-shopping-product-catalogue-simple"
 
 [params]
-    subtitle = "Contact: Shamal Joshi (+91 98812 32634)"
     aboutus="Contact: Shamal Joshi (+91 98812 32634)"
