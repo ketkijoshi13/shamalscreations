@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Shamal&#39;s Creations</title>
-    <link>http://shamalscreations.in/products/posts/</link>
+    <link>http://shamalscreations.in/posts/</link>
     <description>Recent content in Posts on Shamal&#39;s Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2020 16:51:07 -0400</lastBuildDate><atom:link href="http://shamalscreations.in/products/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2020 16:51:07 -0400</lastBuildDate><atom:link href="http://shamalscreations.in/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://shamalscreations.in/products/posts/my-first-post/</link>
+      <link>http://shamalscreations.in/posts/my-first-post/</link>
       <pubDate>Sun, 11 Oct 2020 16:51:07 -0400</pubDate>
       
-      <guid>http://shamalscreations.in/products/posts/my-first-post/</guid>
+      <guid>http://shamalscreations.in/posts/my-first-post/</guid>
       <description></description>
     </item>
     

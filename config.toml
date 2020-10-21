@@ -1,4 +1,4 @@
-baseURL = "http://shamalscreations.in/products/"
+baseURL = "http://shamalscreations.in"
 languageCode = "en-us"
 title = "Shamal's Creations"
 theme = "hugo-shopping-product-catalogue-simple"
