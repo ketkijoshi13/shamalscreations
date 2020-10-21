@@ -2,35 +2,296 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shamal&#39;s Creations</title>
-    <link>http://example.org/</link>
+    <link>http://shamalscreations.in/products/</link>
     <description>Recent content on Shamal&#39;s Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2020 17:20:49 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 11:44:41 -0400</lastBuildDate><atom:link href="http://shamalscreations.in/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Item 1</title>
-      <link>http://example.org/products/item1/</link>
-      <pubDate>Sun, 11 Oct 2020 17:20:49 -0400</pubDate>
+      <title>Item 46</title>
+      <link>http://shamalscreations.in/products/products/item46/</link>
+      <pubDate>Tue, 20 Oct 2020 11:44:41 -0400</pubDate>
       
-      <guid>http://example.org/products/item1/</guid>
+      <guid>http://shamalscreations.in/products/products/item46/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 47</title>
+      <link>http://shamalscreations.in/products/products/item47/</link>
+      <pubDate>Tue, 20 Oct 2020 11:44:36 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item47/</guid>
+      <description>Insert Product description here** **Insert Product description here****</description>
+    </item>
+    
+    <item>
+      <title>Item 32</title>
+      <link>http://shamalscreations.in/products/products/item32/</link>
+      <pubDate>Tue, 20 Oct 2020 11:38:49 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item32/</guid>
+      <description>Size: 11.5 inches x 11.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 30</title>
+      <link>http://shamalscreations.in/products/products/item30/</link>
+      <pubDate>Tue, 20 Oct 2020 11:38:45 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item30/</guid>
+      <description>Size: 14.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 15</title>
+      <link>http://shamalscreations.in/products/products/item15/</link>
+      <pubDate>Tue, 20 Oct 2020 11:32:26 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item15/</guid>
+      <description>Size: 12.5 inches x 8.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 19</title>
+      <link>http://shamalscreations.in/products/products/item19/</link>
+      <pubDate>Tue, 20 Oct 2020 11:20:34 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item19/</guid>
+      <description>Size: 12.5 inches x 8.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 12</title>
+      <link>http://shamalscreations.in/products/products/item12/</link>
+      <pubDate>Mon, 19 Oct 2020 20:58:18 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item12/</guid>
+      <description>Size: 9.5 inches x 9.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 45</title>
+      <link>http://shamalscreations.in/products/products/item45/</link>
+      <pubDate>Mon, 19 Oct 2020 20:52:32 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item45/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item4</title>
+      <link>http://shamalscreations.in/products/products/item4/</link>
+      <pubDate>Sun, 18 Oct 2020 17:39:25 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item4/</guid>
+      <description>Size: 13 inches x 6 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 44</title>
+      <link>http://shamalscreations.in/products/products/item44/</link>
+      <pubDate>Sun, 18 Oct 2020 17:34:59 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item44/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 43</title>
+      <link>http://shamalscreations.in/products/products/item43/</link>
+      <pubDate>Sun, 18 Oct 2020 17:34:55 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item43/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 42</title>
+      <link>http://shamalscreations.in/products/products/item42/</link>
+      <pubDate>Sun, 18 Oct 2020 17:34:51 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item42/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 41</title>
+      <link>http://shamalscreations.in/products/products/item41/</link>
+      <pubDate>Sun, 18 Oct 2020 17:34:43 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item41/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 35</title>
+      <link>http://shamalscreations.in/products/products/item35/</link>
+      <pubDate>Sun, 18 Oct 2020 17:29:56 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item35/</guid>
+      <description>Size: 10.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 40</title>
+      <link>http://shamalscreations.in/products/products/item40/</link>
+      <pubDate>Sun, 18 Oct 2020 17:19:40 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item40/</guid>
+      <description>Size: 10.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 39</title>
+      <link>http://shamalscreations.in/products/products/item39/</link>
+      <pubDate>Sun, 18 Oct 2020 17:15:05 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item39/</guid>
+      <description>Size: 13 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 38</title>
+      <link>http://shamalscreations.in/products/products/item38/</link>
+      <pubDate>Sun, 18 Oct 2020 17:09:01 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item38/</guid>
+      <description>Size: 13 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 9</title>
+      <link>http://shamalscreations.in/products/products/item9/</link>
+      <pubDate>Sun, 18 Oct 2020 17:06:43 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item9/</guid>
+      <description>Size: 10 inches x 10 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 26</title>
+      <link>http://shamalscreations.in/products/products/item26/</link>
+      <pubDate>Sun, 18 Oct 2020 17:05:16 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item26/</guid>
+      <description>Size: 10.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 22</title>
+      <link>http://shamalscreations.in/products/products/item22/</link>
+      <pubDate>Sun, 18 Oct 2020 17:03:34 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item22/</guid>
+      <description>Size: 15.5 inches x 11.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 11</title>
+      <link>http://shamalscreations.in/products/products/item11/</link>
+      <pubDate>Sun, 18 Oct 2020 17:02:20 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item11/</guid>
+      <description>Size: 10.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 10</title>
+      <link>http://shamalscreations.in/products/products/item10/</link>
+      <pubDate>Sun, 18 Oct 2020 17:00:57 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item10/</guid>
+      <description>Size: 10.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 24</title>
+      <link>http://shamalscreations.in/products/products/item24/</link>
+      <pubDate>Sun, 18 Oct 2020 16:59:48 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item24/</guid>
+      <description>Size: 12.5 inches x 11.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 13</title>
+      <link>http://shamalscreations.in/products/products/item13/</link>
+      <pubDate>Sun, 18 Oct 2020 15:13:27 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item13/</guid>
+      <description>Size: 12.5 inches x 8.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 29</title>
+      <link>http://shamalscreations.in/products/products/item29/</link>
+      <pubDate>Sun, 18 Oct 2020 15:13:27 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item29/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Item21</title>
+      <link>http://shamalscreations.in/products/products/item21/</link>
+      <pubDate>Sun, 18 Oct 2020 15:13:27 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item21/</guid>
+      <description>Size: 13.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 8</title>
+      <link>http://shamalscreations.in/products/products/item8/</link>
+      <pubDate>Sun, 18 Oct 2020 15:09:08 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item8/</guid>
+      <description>Size: 12.5 inches x 8.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item  6</title>
+      <link>http://shamalscreations.in/products/products/item6/</link>
+      <pubDate>Sun, 18 Oct 2020 15:04:02 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item6/</guid>
+      <description>Size: 12.5 inches x 8.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 3</title>
+      <link>http://shamalscreations.in/products/products/item3/</link>
+      <pubDate>Sun, 18 Oct 2020 14:57:26 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item3/</guid>
+      <description>Size: 14.5 inches x 7.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 1</title>
+      <link>http://shamalscreations.in/products/products/item1/</link>
+      <pubDate>Sun, 11 Oct 2020 17:20:49 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item1/</guid>
+      <description>Size: 13.5 inches x 6 inches</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://shamalscreations.in/products/posts/my-first-post/</link>
       <pubDate>Sun, 11 Oct 2020 16:51:07 -0400</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://shamalscreations.in/products/posts/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Item 2</title>
-      <link>http://example.org/products/item2/</link>
+      <link>http://shamalscreations.in/products/products/item2/</link>
       <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
       
-      <guid>http://example.org/products/item2/</guid>
+      <guid>http://shamalscreations.in/products/products/item2/</guid>
       <description>Size: 8.5 inch x 8.5 inch
 Material: Glass
 Colour: Green Yellow and white</description>
@@ -38,82 +299,82 @@ Colour: Green Yellow and white</description>
     
     <item>
       <title>Item 23</title>
-      <link>http://example.org/products/item23/</link>
+      <link>http://shamalscreations.in/products/products/item23/</link>
       <pubDate>Sat, 12 May 2018 15:48:00 +0530</pubDate>
       
-      <guid>http://example.org/products/item23/</guid>
+      <guid>http://shamalscreations.in/products/products/item23/</guid>
       <description>Size: 17.5 inch x 9.5 inch</description>
     </item>
     
     <item>
       <title>Item 27</title>
-      <link>http://example.org/products/item27/</link>
+      <link>http://shamalscreations.in/products/products/item27/</link>
       <pubDate>Sat, 12 May 2018 13:50:55 +0530</pubDate>
       
-      <guid>http://example.org/products/item27/</guid>
+      <guid>http://shamalscreations.in/products/products/item27/</guid>
       <description>Size: 15.5 inches x 11.5 inches</description>
     </item>
     
     <item>
       <title>Item 20</title>
-      <link>http://example.org/products/item20/</link>
+      <link>http://shamalscreations.in/products/products/item20/</link>
       <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
       
-      <guid>http://example.org/products/item20/</guid>
+      <guid>http://shamalscreations.in/products/products/item20/</guid>
       <description>Available in other sizes and colors</description>
     </item>
     
     <item>
       <title>Item 5</title>
-      <link>http://example.org/products/item5/</link>
+      <link>http://shamalscreations.in/products/products/item5/</link>
       <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
       
-      <guid>http://example.org/products/item5/</guid>
+      <guid>http://shamalscreations.in/products/products/item5/</guid>
       <description>The Alessa collection features a metal shade that when illuminated provides a beautiful two toned look. Perfect for mounting along your house, on your deck or patio, or as entryway lights. Available in black, green, white and clear glass.</description>
     </item>
     
     <item>
       <title>Item 17</title>
-      <link>http://example.org/products/item17/</link>
+      <link>http://shamalscreations.in/products/products/item17/</link>
       <pubDate>Thu, 10 May 2018 20:17:46 +0530</pubDate>
       
-      <guid>http://example.org/products/item17/</guid>
+      <guid>http://shamalscreations.in/products/products/item17/</guid>
       <description>Size: 14.5 inches x 9.5 inches</description>
     </item>
     
     <item>
       <title>Item 14</title>
-      <link>http://example.org/products/item14/</link>
+      <link>http://shamalscreations.in/products/products/item14/</link>
       <pubDate>Thu, 10 May 2018 20:11:38 +0530</pubDate>
       
-      <guid>http://example.org/products/item14/</guid>
+      <guid>http://shamalscreations.in/products/products/item14/</guid>
       <description>Size: 9 inches x 9 inches</description>
     </item>
     
     <item>
-      <title>Item16</title>
-      <link>http://example.org/products/item16/</link>
+      <title>Item 16</title>
+      <link>http://shamalscreations.in/products/products/item16/</link>
       <pubDate>Thu, 10 May 2018 20:00:43 +0530</pubDate>
       
-      <guid>http://example.org/products/item16/</guid>
+      <guid>http://shamalscreations.in/products/products/item16/</guid>
       <description>Size: 14 inches x 9 inches</description>
     </item>
     
     <item>
       <title>Item 37</title>
-      <link>http://example.org/products/item37/</link>
+      <link>http://shamalscreations.in/products/products/item37/</link>
       <pubDate>Thu, 10 May 2018 08:02:34 +0530</pubDate>
       
-      <guid>http://example.org/products/item37/</guid>
+      <guid>http://shamalscreations.in/products/products/item37/</guid>
       <description>Size: 13.5 inches x 6 inches</description>
     </item>
     
     <item>
       <title>Item 7</title>
-      <link>http://example.org/products/item7/</link>
+      <link>http://shamalscreations.in/products/products/item7/</link>
       <pubDate>Thu, 10 May 2018 08:02:34 +0530</pubDate>
       
-      <guid>http://example.org/products/item7/</guid>
+      <guid>http://shamalscreations.in/products/products/item7/</guid>
       <description>Size: 14.5 inches x 9 inches</description>
     </item>
     

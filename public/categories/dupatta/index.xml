@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dupatta on Shamal&#39;s Creations</title>
+    <link>http://shamalscreations.in/products/categories/dupatta/</link>
+    <description>Recent content in Dupatta on Shamal&#39;s Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2020 11:44:41 -0400</lastBuildDate><atom:link href="http://shamalscreations.in/products/categories/dupatta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Item 46</title>
+      <link>http://shamalscreations.in/products/products/item46/</link>
+      <pubDate>Tue, 20 Oct 2020 11:44:41 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item46/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 47</title>
+      <link>http://shamalscreations.in/products/products/item47/</link>
+      <pubDate>Tue, 20 Oct 2020 11:44:36 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item47/</guid>
+      <description>Insert Product description here** **Insert Product description here****</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,19 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>white on Shamal&#39;s Creations</title>
-    <link>http://example.org/tags/white/</link>
-    <description>Recent content in white on Shamal&#39;s Creations</description>
+    <title>White on Shamal&#39;s Creations</title>
+    <link>http://shamalscreations.in/products/tags/white/</link>
+    <description>Recent content in White on Shamal&#39;s Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 May 2018 22:35:06 +0530</lastBuildDate><atom:link href="http://example.org/tags/white/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 11:38:45 -0400</lastBuildDate><atom:link href="http://shamalscreations.in/products/tags/white/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alessa</title>
-      <link>http://example.org/products/alessa/</link>
-      <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
+      <title>Item 30</title>
+      <link>http://shamalscreations.in/products/products/item30/</link>
+      <pubDate>Tue, 20 Oct 2020 11:38:45 -0400</pubDate>
       
-      <guid>http://example.org/products/alessa/</guid>
-      <description>The Alessa collection features a metal shade that when illuminated provides a beautiful two toned look. Perfect for mounting along your house, on your deck or patio, or as entryway lights. Available in black, green, white and clear glass.</description>
+      <guid>http://shamalscreations.in/products/products/item30/</guid>
+      <description>Size: 14.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 19</title>
+      <link>http://shamalscreations.in/products/products/item19/</link>
+      <pubDate>Tue, 20 Oct 2020 11:20:34 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item19/</guid>
+      <description>Size: 12.5 inches x 8.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 22</title>
+      <link>http://shamalscreations.in/products/products/item22/</link>
+      <pubDate>Sun, 18 Oct 2020 17:03:34 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item22/</guid>
+      <description>Size: 15.5 inches x 11.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 11</title>
+      <link>http://shamalscreations.in/products/products/item11/</link>
+      <pubDate>Sun, 18 Oct 2020 17:02:20 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item11/</guid>
+      <description>Size: 10.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 29</title>
+      <link>http://shamalscreations.in/products/products/item29/</link>
+      <pubDate>Sun, 18 Oct 2020 15:13:27 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Item21</title>
+      <link>http://shamalscreations.in/products/products/item21/</link>
+      <pubDate>Sun, 18 Oct 2020 15:13:27 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item21/</guid>
+      <description>Size: 13.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 8</title>
+      <link>http://shamalscreations.in/products/products/item8/</link>
+      <pubDate>Sun, 18 Oct 2020 15:09:08 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item8/</guid>
+      <description>Size: 12.5 inches x 8.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 1</title>
+      <link>http://shamalscreations.in/products/products/item1/</link>
+      <pubDate>Sun, 11 Oct 2020 17:20:49 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item1/</guid>
+      <description>Size: 13.5 inches x 6 inches</description>
     </item>
     
   </channel>

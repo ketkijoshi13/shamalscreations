@@ -2,17 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Green on Shamal&#39;s Creations</title>
-    <link>http://example.org/tags/green/</link>
+    <link>http://shamalscreations.in/products/tags/green/</link>
     <description>Recent content in Green on Shamal&#39;s Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 May 2018 15:54:25 +0530</lastBuildDate><atom:link href="http://example.org/tags/green/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 11:44:41 -0400</lastBuildDate><atom:link href="http://shamalscreations.in/products/tags/green/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Item 46</title>
+      <link>http://shamalscreations.in/products/products/item46/</link>
+      <pubDate>Tue, 20 Oct 2020 11:44:41 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item46/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 12</title>
+      <link>http://shamalscreations.in/products/products/item12/</link>
+      <pubDate>Mon, 19 Oct 2020 20:58:18 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item12/</guid>
+      <description>Size: 9.5 inches x 9.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item4</title>
+      <link>http://shamalscreations.in/products/products/item4/</link>
+      <pubDate>Sun, 18 Oct 2020 17:39:25 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item4/</guid>
+      <description>Size: 13 inches x 6 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 40</title>
+      <link>http://shamalscreations.in/products/products/item40/</link>
+      <pubDate>Sun, 18 Oct 2020 17:19:40 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item40/</guid>
+      <description>Size: 10.5 inches x 10.5 inches</description>
+    </item>
+    
+    <item>
+      <title>Item 39</title>
+      <link>http://shamalscreations.in/products/products/item39/</link>
+      <pubDate>Sun, 18 Oct 2020 17:15:05 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item39/</guid>
+      <description>Size: 13 inches x 10.5 inches</description>
+    </item>
+    
     <item>
       <title>Item 2</title>
-      <link>http://example.org/products/item2/</link>
+      <link>http://shamalscreations.in/products/products/item2/</link>
       <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
       
-      <guid>http://example.org/products/item2/</guid>
+      <guid>http://shamalscreations.in/products/products/item2/</guid>
       <description>Size: 8.5 inch x 8.5 inch
 Material: Glass
 Colour: Green Yellow and white</description>
@@ -20,10 +65,10 @@ Colour: Green Yellow and white</description>
     
     <item>
       <title>Item 20</title>
-      <link>http://example.org/products/item20/</link>
+      <link>http://shamalscreations.in/products/products/item20/</link>
       <pubDate>Fri, 11 May 2018 22:35:06 +0530</pubDate>
       
-      <guid>http://example.org/products/item20/</guid>
+      <guid>http://shamalscreations.in/products/products/item20/</guid>
       <description>Available in other sizes and colors</description>
     </item>
     

@@ -3,7 +3,7 @@
     "date": "2018-05-10T20:17:46+05:30",
     "tags": ["Blue"],
     "categories": ["Trays"],
-    "images": ["img/Item17.jpg"],
+    "images": ["img/Item17.jpeg"],
     "thumbnailImage": "img/Item17.jpeg",
     "comparePrice": null,
     "actualPrice": "₹ 750.00",

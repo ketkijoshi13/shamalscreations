@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coasters on Shamal&#39;s Creations</title>
+    <link>http://shamalscreations.in/products/categories/coasters/</link>
+    <description>Recent content in Coasters on Shamal&#39;s Creations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Oct 2020 20:52:32 -0400</lastBuildDate><atom:link href="http://shamalscreations.in/products/categories/coasters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Item 45</title>
+      <link>http://shamalscreations.in/products/products/item45/</link>
+      <pubDate>Mon, 19 Oct 2020 20:52:32 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item45/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 44</title>
+      <link>http://shamalscreations.in/products/products/item44/</link>
+      <pubDate>Sun, 18 Oct 2020 17:34:59 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item44/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 43</title>
+      <link>http://shamalscreations.in/products/products/item43/</link>
+      <pubDate>Sun, 18 Oct 2020 17:34:55 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item43/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 42</title>
+      <link>http://shamalscreations.in/products/products/item42/</link>
+      <pubDate>Sun, 18 Oct 2020 17:34:51 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item42/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+    <item>
+      <title>Item 41</title>
+      <link>http://shamalscreations.in/products/products/item41/</link>
+      <pubDate>Sun, 18 Oct 2020 17:34:43 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/products/item41/</guid>
+      <description>Insert Product description here**</description>
+    </item>
+    
+  </channel>
+</rss>

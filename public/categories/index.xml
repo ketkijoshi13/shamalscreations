@@ -2,17 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shamal&#39;s Creations</title>
-    <link>http://example.org/categories/</link>
+    <link>http://shamalscreations.in/products/categories/</link>
     <description>Recent content in Categories on Shamal&#39;s Creations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 May 2018 15:54:25 +0530</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 11:44:41 -0400</lastBuildDate><atom:link href="http://shamalscreations.in/products/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dupatta</title>
+      <link>http://shamalscreations.in/products/categories/dupatta/</link>
+      <pubDate>Tue, 20 Oct 2020 11:44:41 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/categories/dupatta/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Trays</title>
-      <link>http://example.org/categories/trays/</link>
-      <pubDate>Sat, 12 May 2018 15:54:25 +0530</pubDate>
+      <link>http://shamalscreations.in/products/categories/trays/</link>
+      <pubDate>Tue, 20 Oct 2020 11:38:49 -0400</pubDate>
       
-      <guid>http://example.org/categories/trays/</guid>
+      <guid>http://shamalscreations.in/products/categories/trays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coasters</title>
+      <link>http://shamalscreations.in/products/categories/coasters/</link>
+      <pubDate>Mon, 19 Oct 2020 20:52:32 -0400</pubDate>
+      
+      <guid>http://shamalscreations.in/products/categories/coasters/</guid>
       <description></description>
     </item>
     

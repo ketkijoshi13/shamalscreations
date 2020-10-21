@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://shamalscreations.in/products/"
 languageCode = "en-us"
 title = "Shamal's Creations"
 theme = "hugo-shopping-product-catalogue-simple"
+
+[params]
+subtitle = "Contact: Shamal Joshi (+91 98812 32634)"
