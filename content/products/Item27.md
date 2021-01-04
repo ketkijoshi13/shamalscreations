@@ -5,10 +5,10 @@
     "categories": ["Trays"],
     "images": ["img/Item27.jpeg"],
     "thumbnailImage": "img/Item27.jpeg",
-    "actualPrice": "₹ 850.00",
+    "actualPrice": "₹ 900.00",
     "size": "15.5 inches x 11.5 inches",
     "comparePrice": null,
-    "inStock": false,
+    "inStock": true,
     "options": {},
     "variants": []
 }

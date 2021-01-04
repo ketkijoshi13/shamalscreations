@@ -7,8 +7,7 @@
     "thumbnailImage": "img/Item46.jpeg",
     "actualPrice": "From ₹ 1800.00",
     "comparePrice": "",
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
-**Insert Product description here****

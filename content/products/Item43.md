@@ -5,11 +5,11 @@
     "categories": ["Coasters"],
     "images": ["img/Item43.jpeg"],
     "thumbnailImage": "img/Item43.jpeg",
-    "actualPrice": "₹ 150.00",
+    "actualPrice": "₹ 125.00",
     "comparePrice": "",
     "inStock": true,
     "options": {},
     "variants": []
 }
 
-**Insert Product description here****
+Size: 4.5 inches x 4.5 inches
