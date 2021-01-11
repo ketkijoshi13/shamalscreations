@@ -1,5 +1,5 @@
 {
-    "title": "Item69",
+    "title": "Item 69",
     "date": "2020-12-31T04:03:18-05:00",
     "tags": [],
     "categories": ["Trays"],
