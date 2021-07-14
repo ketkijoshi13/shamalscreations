@@ -16,7 +16,7 @@
         {
             "optionCombination" : ["With extension wire"],
             "comparePrice": null,
-            "actualPrice": "₹ 750.00",
+            "actualPrice": "₹ 800.00",
             "inStock": true
         },
         {

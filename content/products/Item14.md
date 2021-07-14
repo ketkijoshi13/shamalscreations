@@ -5,7 +5,7 @@
     "categories": ["Trays"],
     "images": ["img/Item14.jpeg"],
     "thumbnailImage": "img/Item14.jpeg",
-    "actualPrice": "₹ 800.00",
+    "actualPrice": "₹ 850.00",
     "size": "9 inches x 9 inches",
     "comparePrice": null,
     "inStock": true,

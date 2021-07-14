@@ -5,7 +5,7 @@
     "categories": ["Trays"],
     "images": ["img/Item51.jpeg"],
     "thumbnailImage": "img/Item51.jpeg",
-    "actualPrice": "₹ 800.00",
+    "actualPrice": "₹ 850.00",
     "comparePrice": "",
     "inStock": true,
     "options": {},

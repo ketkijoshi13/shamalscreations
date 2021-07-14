@@ -5,7 +5,7 @@
     "categories": ["Dupatta"],
     "images": ["img/Item46.jpeg", "img/Item46-2.jpeg", "img/Item46-3.jpeg"],
     "thumbnailImage": "img/Item46.jpeg",
-    "actualPrice": "From ₹ 1800.00",
+    "actualPrice": "From ₹ 2000.00",
     "comparePrice": "",
     "inStock": false,
     "options": {},

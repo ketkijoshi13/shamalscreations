@@ -5,7 +5,7 @@
     "categories": ["Coasters"],
     "images": ["img/Item82.jpeg"],
     "thumbnailImage": "img/Item82.jpeg",
-    "actualPrice": "₹ 125.00",
+    "actualPrice": "₹ 150.00",
     "comparePrice": "",
     "inStock": true,
     "options": {},

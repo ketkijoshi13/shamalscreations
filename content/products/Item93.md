@@ -1,11 +1,11 @@
 {
-    "title": "Item 91",
+    "title": "Item 93",
     "date": "2021-01-11T03:06:04-05:00",
     "tags": [],
     "categories": ["Trays"],
-    "images": ["img/Item91.jpeg"],
-    "thumbnailImage": "img/Item91.jpeg",
-    "actualPrice": "₹ 650.00",
+    "images": ["img/Item93.jpeg"],
+    "thumbnailImage": "img/Item93.jpeg",
+    "actualPrice": "₹ 850.00",
     "comparePrice": "",
     "inStock": true,
     "options": {},
@@ -13,4 +13,4 @@
 }
 
 
-Size: 14.5 inches x 5.5 inches
+Size: 12.5 inches x 8.5 inches

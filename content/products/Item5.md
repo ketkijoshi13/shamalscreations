@@ -16,7 +16,7 @@
         {
             "optionCombination" : ["Chrome", "L19 x W24 x H23cms"],
             "comparePrice": null,
-            "actualPrice": "₹ 600.00",
+            "actualPrice": "₹ 650.00",
             "inStock": true
         },
         {
