@@ -6,7 +6,7 @@
     "images": ["img/Item17.jpeg"],
     "thumbnailImage": "img/Item17.jpeg",
     "comparePrice": null,
-    "actualPrice": "₹ 750.00",
+    "actualPrice": "₹ 1000.00",
     "size": "14 inches x 9.5 inches",
     "inStock": true,
     "options": {},
